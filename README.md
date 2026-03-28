@@ -9,10 +9,6 @@ This project explores the mathematical foundation and computational implementati
 * **Data Visualization:** Comparative analysis of testing efficiency using `matplotlib`.
 * **Interactive Learning:** A comprehensive Jupyter Notebook designed for both technical review and educational demonstration.
 
-## Links
-* `primality_testing_pseudoprimes_ucsc2020.ipynb`: The primary research and code environment.
-* `images/`: Visualizations of prime distribution and algorithm performance.
-
 ## Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** Matplotlib
@@ -22,7 +18,9 @@ This project explores the mathematical foundation and computational implementati
 * Traditional trial division is nearly impossible for RSA-level primes
 * Pseudoprime testing provides a probabilistic approach that handles massive integers in milliseconds
 
+## Files
+* [Jupyter Notebook](primality_testing_pseudoprimes_ucsc2020.ipynb)
+
 ## How to View
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/jasondchew/primality-testing-pseudoprimes-ucsc2020.git](https://github.com/jasondchew/primality-testing-pseudoprimes-ucsc2020.git)
+* Open Jupyter notebook in any Python environment
+
