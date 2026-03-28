@@ -19,7 +19,7 @@ This project explores the mathematical foundation and computational implementati
 * Pseudoprime testing provides a probabilistic approach that handles massive integers in milliseconds
 
 ## Files
-* [Jupyter Notebook](primality_testing_pseudoprimes_ucsc2020.ipynb)
+* [View Jupyter Notebook](primality_testing_pseudoprimes_ucsc2020.ipynb)
 
 ## How to View
 * Open Jupyter notebook in Jupyter Lab, VS Code, or Google Colab
