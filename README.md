@@ -22,5 +22,5 @@ This project explores the mathematical foundation and computational implementati
 * [Jupyter Notebook](primality_testing_pseudoprimes_ucsc2020.ipynb)
 
 ## How to View
-* Open Jupyter notebook in any Python environment
+* Open Jupyter notebook in Jupyter Lab, VS Code, or Google Colab
 
